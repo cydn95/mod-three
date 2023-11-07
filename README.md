@@ -6,6 +6,8 @@
 
 Build an FSM that takes the input characters, one at a time, MOST significant bit first and transitions between a set of states as specified by the following state transition diagram:
 
+![image](https://github.com/cydn95/mod-three/assets/80715669/6c27ed61-0e81-4383-af71-060c3a32b4a7)
+
 The value that is returned from our function will depend on the state which is selected after the character sequence has been exhausted. The final state will be converted to a remainder value as specified in the following table:
 
 <table>
